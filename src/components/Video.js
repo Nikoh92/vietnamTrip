@@ -13,7 +13,6 @@ const Container = styled.div`
     position: absolute;
 `;
 
-
 class Video extends React.Component{
       
     state = { 
